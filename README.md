@@ -31,8 +31,6 @@ A simple and responsive **Tic Tac Toe** game built using **HTML, CSS, and JavaSc
 
 ## 📷 Project Preview
 
-> Add a screenshot of your project here.
-
 ![Tic Tac Toe Screenshot](Tic-Tac-Toe.png)
 
 ---
