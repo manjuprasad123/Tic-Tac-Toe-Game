@@ -95,8 +95,8 @@ The game uses **CSS Flexbox** and **Viewport Units (vmin)** to automatically adj
 
 **Manju Prasad M**
 
-* GitHub: https://github.com/your-github-username
-* LinkedIn: https://linkedin.com/in/your-linkedin-profile
+* GitHub: https://github.com/manjuprasad123
+* LinkedIn: https://www.linkedin.com/in/manju-prasad-0925a0361/
 
 ---
 
